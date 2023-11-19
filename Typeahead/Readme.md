@@ -24,3 +24,5 @@ If the user clicks on one of the suggestions, its value should be filled into th
 If the user clears the typeahead (e.g., backspaces all of the typed text), the displayed suggestions should be cleared, and no API request should be made.
 You should use the global fetch ( method to make requests to the API (call fetch) directly; don't call window. fetch ()).
 Your JavaScript code has already been linked to the pre-written HTML code via a deferred script tag.
+
+
