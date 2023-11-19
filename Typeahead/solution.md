@@ -20,4 +20,5 @@ Steps:
 4) fetchAndAppendSuggestions
     - get the key from the input.value
     - make a fetch request and take in the url object.
+    - make a fragment and add it to the suggestionList. We use replaceChildren as the api returns all suggestions.
     
