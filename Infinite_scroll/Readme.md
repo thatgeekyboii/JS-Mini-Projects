@@ -21,4 +21,7 @@ We need to append the first 5 testimonials. Once on the first load and also when
 
     -createTestimonialElement()
         -  Function Creates Testimonial Element.
-        
+    
+Add A scrollevent to check the page size and the fetch
+
+the scroll event is faster than the API call
