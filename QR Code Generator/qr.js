@@ -1,0 +1,1 @@
+const qrFormElement = document.createElement('qrForm');
