@@ -9,3 +9,4 @@ Just create your own OpenWeather API key and start playing.
 
 Output images in the project structure.
 
+![Alt text](https://github.com/thatgeekyboii/JS-Mini-Projects/blob/main/Weather/output/o1.png)
